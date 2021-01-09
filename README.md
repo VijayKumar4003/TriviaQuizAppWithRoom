@@ -48,7 +48,7 @@ If want to learn the Assets Creation then you can follow the Tutorials Series He
 
 Whose link is: https://youtube.com/playlist?list=PLYaEKGt6xfkvy541krrOZl8cqaLaNrsLQ
 
-Also Check out the App Creation of Trivia Quiz App built by using SQLite database. The Link is given below:
+# Also Check out the App Creation of Trivia Quiz App built by using SQLite database.The Link is given below:
 
 https://github.com/VijayKumar4003/TriviaQuizApp
 

@@ -6,7 +6,7 @@ This App is created by Using the Room Library Data base. A light weight database
 I have created an online Tutorial Series for this repo on my YouTube Channel
 
 # Learn the app Development of Trivia Quiz App in Android Studio
-Whose link is: https://youtube.com/playlist?list=PLYaEKGt6xfkv3r4VY5Mnw0-l7-aip42qE
+Whose link is: https://youtube.com/playlist?list=PLYaEKGt6xfkv_N3B_N8rtyKbP-D42Vv5v
 
 To get better idea how this app is created you can watch the entire series on YouTube.
 
@@ -21,6 +21,7 @@ You Can See the Screenshots of the Quiz Application:
 	<img src="/screenshots/5.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshots/6.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshots/7.png" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/8.png" width = "200" height= "350" hspace=40>
 </p>
 
 ## If you have any queries or suggestions you can follow me on instagram: @dino_coder

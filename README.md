@@ -1,7 +1,7 @@
 # Trivia Quiz App with Room Database Library
 
 Welcome to Trivia Quiz App's open source Android app! 
-Hey!
+
 This App is created by Using the Room Library Data base. A light weight database all the features and environment are listed below.
 I have created an online Tutorial Series for this repo on my YouTube Channel
 
